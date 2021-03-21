@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Tuncay Kayaoglu
+### A Technical Writer
 
-Hello, world
+**Hello, world**
+
+
 
 You can use the [editor on GitHub](https://github.com/tunc-ay/me/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
