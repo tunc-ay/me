@@ -3,7 +3,7 @@
 
 ##Resume##
 ###Work Experience###
-2020 - ...		Technical Writer @ Netsparker
+Jan 2020 - ...			Technical Writer @ Netsparker
 Nov 2018 - Jan 2020	Freelance Content Editor 
 Aug 2014 - Jan 2020	Contributing Editor @ siberbulten.com
 Dec 2016 - Nov 2019	Ghostwriter @ LifebookUK
