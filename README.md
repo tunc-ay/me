@@ -1,9 +1,9 @@
 ## Tuncay Kayaoglu
-### A Technical Writer
+###A Technical Writer
 
-##Resume##
-###Work Experience###
-Jan 2020 - ...			Technical Writer @ Netsparker
+## Resume
+###Work Experience
+Jan 2020 - ...		Technical Writer @ Netsparker
 Nov 2018 - Jan 2020	Freelance Content Editor 
 Aug 2014 - Jan 2020	Contributing Editor @ siberbulten.com
 Dec 2016 - Nov 2019	Ghostwriter @ LifebookUK
@@ -12,7 +12,7 @@ Aug 2013 - Aug 2016	Senior Reporter @ Anadolu Agency www.aa.com.tr
 Aug 2012 - Aug 2013	Tokyo Correspondent - Freelance
 Jul 2004 - Aug 2012	Journalist @ variour organizations
 
-###Education###
+###Education
  
 
 You can use the [editor on GitHub](https://github.com/tunc-ay/me/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
