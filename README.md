@@ -1,5 +1,5 @@
 ## Tuncay Kayaoglu
-###A Technical Writer
+### A Technical Writer
 
 ## Resume
 ### Work Experience
