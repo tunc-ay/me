@@ -4,7 +4,10 @@
 ## Resume
 
 ### Work Experience
-* Jan 2020 - ...		Technical Writer @ [Netsparker](https://www.netsparker.com)
+| Year | Title |
+| ---- | ---- |
+|Jan 2020 - ...	| Technical Writer @ [Netsparker](https://www.netsparker.com)|
+
 * Nov 2018 - Jan 2020	Freelance Content Editor 
 * Aug 2014 - Jan 2020	Contributing Editor @ siberbulten.com
 * Dec 2016 - Nov 2019	Ghostwriter @ [LifebookUK](https://www.lifebookuk.com/)
