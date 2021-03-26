@@ -23,6 +23,6 @@
 * The Complete 2020 Web Development Bootcamp @Udemy
 
 ### Languages
-English: Fluent
-Japanese: Beginner
-German: Beginner
+* English: Fluent
+* Japanese: Beginner
+* German: Beginner
