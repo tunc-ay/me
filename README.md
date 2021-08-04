@@ -1,5 +1,5 @@
 ## Tuncay Kayaoglu
-### Technical Writer
+### Senior Technical Writer
 
 ## Resume
 
