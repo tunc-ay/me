@@ -23,11 +23,13 @@
 |Oct 1999 - July 2004 | B.A. - Philosophy @ [Bogazici University](https://www.boun.edu.tr) |	
 
 ### Certifications
+* Programming for Everybody (Getting Started w ith Python)
+* Coding for Writers: Basic Programming
 * Git and GitHub for Writers @ Udemy
 * Technical Writing: How to Write Software Documentation @ Udemy
 * The Complete 2020 Web Development Bootcamp @Udemy
 
 ### Languages
-* English: Fluent
-* Japanese: Beginner
-* German: Beginner
+* English: Native or bilingual proficiency
+* Turkish: Native
+* Japanese:  Limited working proficiency
