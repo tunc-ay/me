@@ -1,5 +1,5 @@
 ## Tuncay Kayaoglu
-### Senior Technical Writer
+### Lead Technical Writer
 
 ## Resume
 
