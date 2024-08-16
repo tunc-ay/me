@@ -6,7 +6,8 @@
 ### Work Experience
 | Year | Title |
 | ---- | ---- |
-|Mar 2021 - ...	| Senior Technical Writer @ [Invicti Security](https://www.invicti.com)|
+|July 2023 - ...	| Lead Technical Writer @ [Analog Devices](https://www.analog.com)|
+|Mar 2021 - July 2023	| Senior Technical Writer @ [Invicti Security](https://www.invicti.com)|
 |Feb 2020 - Mar 2021 | Technical Writer @ [Netsparker](https://www.netsparker.com)|
 |Nov 2018 - Jan 2020 | Freelance Content Editor |
 |Aug 2014 - Jan 2020 | Contributing Editor @ [SiberBulten](http://siberbulten.com) |
